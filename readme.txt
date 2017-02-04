@@ -25,3 +25,5 @@ git commit -am  afdsfdsfdsafdsafdsafdsafdsafdsa
 天灿灿海茫茫
 
 git master 分支
+
+Creating a new branch is quick.
