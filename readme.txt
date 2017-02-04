@@ -34,3 +34,5 @@ Creating a new branch is quick and simple.
 合并
 
 合并no --ff
+
+何必
